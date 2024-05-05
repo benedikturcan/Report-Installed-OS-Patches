@@ -1,6 +1,7 @@
 # Report-Installed-OS-Patches
-
 This tool retrieves and generates reports on installed OS patches for organizations. It offers the flexibility to choose the output format as either CSV or PDF and to define a date range.
+
+----------------------------------------------------------------------
 
 **👉 Prerequisites:**<br>
 
