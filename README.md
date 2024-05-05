@@ -3,7 +3,7 @@ This tool retrieves and generates reports on installed OS patches for organizati
 
 ----------------------------------------------------------------------
 
-<h3>👉 Prerequisites: </h3>
+<h3>👉 Prerequisites </h3>
 Before using this code, ensure you have the following prerequisites installed:
 </br>
 </br>
@@ -13,16 +13,16 @@ Ensure Node.js is installed on your system. You can download and install Node.js
 
 ----------------------------------------------------------------------
 
-<h3>🚀 Usage:</h3>
+<h3>🚀 Usage</h3>
 </br>
-🔑 API Credentials: <br>
+🔑 API Credentials <br>
 You need to provide your NinjaOne API credentials, including the clientId and clientSecret. These credentials authenticate your access to the NinjaOne API.
 </br></br>
-🌎 Region: <br>
+🌎 Region <br>
 Specify the region of your NinjaOne account. This could be something like "eu" for Europe or "app" for the US.
 </br></br>
 
-📅 Date Range: <br>
+📅 Date Range <br>
 Choose the desired date range for the report. Options include:
 - today
 - yesterday
@@ -32,17 +32,19 @@ Choose the desired date range for the report. Options include:
 - lastMonth
 
 </br></br>
-💾 Output Format: <br>
+💾 Output Format <br>
 Decide whether you want the output in CSV or PDF format.
 </br></br>
 
 ----------------------------------------------------------------------
 
-<h3>Instructions:</h3>
-Install Dependencies:
+<h3>👩🏽‍🏫 Instructions</h3>
+</br>
+Install Dependencies
 After cloning or downloading the code, navigate to the project directory in your terminal.
 Run npm install to install the required dependencies.
-Configure Settings:
+</br></br>
+Configure Settings
 Open the index.js file in your preferred code editor.
 Fill in the required API credentials, region, date range, and output format at the top of the code.
 Execute the Script:
