@@ -3,6 +3,7 @@
 This tool retrieves and generates reports on installed OS patches for organizations. It offers the flexibility to choose the output format as either CSV or PDF and to define a date range.
 
 **👉 Prerequisites:**<br>
+
 Before using this code, ensure you have the following prerequisites installed:
 
 Node.js: 
@@ -10,13 +11,13 @@ Ensure Node.js is installed on your system. You can download and install Node.js
 
 **🚀 Usage:**
 
-API Credentials: 
+🔑 API Credentials: <br>
 You need to provide your NinjaRMM API credentials, including the clientId and clientSecret. These credentials authenticate your access to the NinjaRMM API.
 
-Region: 
+🌎 Region: <br>
 Specify the region of your NinjaRMM account. This could be either "eu" for Europe or "app" for the US.
 
-Date Range: 
+📅 Date Range: <br>
 Choose the desired date range for the report. Options include:
 - today
 - yesterday
@@ -24,7 +25,10 @@ Choose the desired date range for the report. Options include:
 - lastWeek
 - currentMonth
 - lastMonth
-Output Format: Decide whether you want the output in CSV or PDF format.
+
+💾 Output Format: <br>
+Decide whether you want the output in CSV or PDF format.
+
 Instructions:
 Install Dependencies:
 After cloning or downloading the code, navigate to the project directory in your terminal.
