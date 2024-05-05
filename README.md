@@ -10,6 +10,8 @@ Before using this code, ensure you have the following prerequisites installed:
 Node.js: 
 Ensure Node.js is installed on your system. You can download and install Node.js from the official Node.js website.
 
+----------------------------------------------------------------------
+
 **🚀 Usage:**
 
 🔑 API Credentials: <br>
