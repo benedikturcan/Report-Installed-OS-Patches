@@ -2,7 +2,7 @@
 
 This tool retrieves and generates reports on installed OS patches for organizations. It offers the flexibility to choose the output format as either CSV or PDF and to define a date range.
 
-👉 *Prerequisites:*
+👉 ## Prerequisites:*
 Before using this code, ensure you have the following prerequisites installed:
 
 Node.js: Ensure Node.js is installed on your system. You can download and install Node.js from the official Node.js website.
