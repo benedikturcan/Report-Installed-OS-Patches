@@ -40,16 +40,18 @@ Decide whether you want the output in CSV or PDF format.
 
 <h3>👩🏽‍🏫 Instructions</h3>
 </br>
-**⌨️ Install Dependencies</br>**
+⌨️ Install Dependencies</br
 After cloning or downloading the code, navigate to the project directory in your terminal.
 Run npm install to install the required dependencies.
 </br></br>
-Configure Settings
+⚒️ Configure Settings </br>
 Open the index.js file in your preferred code editor.
 Fill in the required API credentials, region, date range, and output format at the top of the code.
-Execute the Script:
+</br></br>
+💥 Execute the Script </br>
 Run the script by executing node index.js in your terminal.
-The tool will fetch data from the NinjaRMM API and generate reports based on your specified settings.
+The tool will fetch data from the NinjaOne API and generate reports based on your specified settings.
+</br></br>
 Outputs:
 CSV Output: The tool generates a CSV file for each organization, containing details of installed OS patches.
 Each CSV file is named after the respective organization.
