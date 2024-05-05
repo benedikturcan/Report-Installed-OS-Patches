@@ -13,7 +13,7 @@ Ensure Node.js is installed on your system. You can download and install Node.js
 
 ----------------------------------------------------------------------
 
-**🚀 Usage:**
+<h3>🚀 Usage:</h3>
 
 🔑 API Credentials: <br>
 You need to provide your NinjaRMM API credentials, including the clientId and clientSecret. These credentials authenticate your access to the NinjaRMM API.
