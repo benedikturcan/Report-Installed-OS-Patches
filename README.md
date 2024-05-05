@@ -19,7 +19,8 @@ Ensure Node.js is installed on your system. You can download and install Node.js
 You need to provide your NinjaOne API credentials, including the clientId and clientSecret. These credentials authenticate your access to the NinjaOne API.
 </br></br>
 🌎 Region: <br>
-Specify the region of your NinjaRMM account. This could be either "eu" for Europe or "app" for the US.
+Specify the region of your NinjaOne account. This could be something like "eu" for Europe or "app" for the US.
+</br></br>
 
 📅 Date Range: <br>
 Choose the desired date range for the report. Options include:
@@ -29,9 +30,11 @@ Choose the desired date range for the report. Options include:
 - lastWeek
 - currentMonth
 - lastMonth
+</br></br>
 
 💾 Output Format: <br>
 Decide whether you want the output in CSV or PDF format.
+</br></br>
 
 Instructions:
 Install Dependencies:
