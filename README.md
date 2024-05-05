@@ -30,6 +30,7 @@ Choose the desired date range for the report. Options include:
 - lastWeek
 - currentMonth
 - lastMonth
+
 </br></br>
 💾 Output Format: <br>
 Decide whether you want the output in CSV or PDF format.
