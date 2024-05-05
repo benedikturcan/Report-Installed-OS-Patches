@@ -36,7 +36,9 @@ Choose the desired date range for the report. Options include:
 Decide whether you want the output in CSV or PDF format.
 </br></br>
 
-Instructions:
+----------------------------------------------------------------------
+
+<h3>Instructions:</h3>
 Install Dependencies:
 After cloning or downloading the code, navigate to the project directory in your terminal.
 Run npm install to install the required dependencies.
