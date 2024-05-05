@@ -3,7 +3,7 @@ This tool retrieves and generates reports on installed OS patches for organizati
 
 ----------------------------------------------------------------------
 
-**👉 Prerequisites:**<br>
+**<h2>👉 Prerequisites: </h2>**<br>
 Before using this code, ensure you have the following prerequisites installed:
 </br>
 
