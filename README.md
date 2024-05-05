@@ -17,7 +17,7 @@ Ensure Node.js is installed on your system. You can download and install Node.js
 </br>
 🔑 API Credentials: <br>
 You need to provide your NinjaOne API credentials, including the clientId and clientSecret. These credentials authenticate your access to the NinjaOne API.
-</br>
+</br></br>
 🌎 Region: <br>
 Specify the region of your NinjaRMM account. This could be either "eu" for Europe or "app" for the US.
 
