@@ -40,7 +40,7 @@ Decide whether you want the output in CSV or PDF format.
 
 <h3>👩🏽‍🏫 Instructions</h3>
 </br>
-⌨️ Install Dependencies</br
+⌨️ Install Dependencies</br>
 After cloning or downloading the code, navigate to the project directory in your terminal.
 Run npm install to install the required dependencies.
 </br></br>
