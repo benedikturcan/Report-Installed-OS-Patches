@@ -87,7 +87,7 @@ The tool handles errors gracefully, providing clear messages for any encountered
 
 ----------------------------------------------------------------------
 
-<h3>Note:</h3>
+<h3>📝 Note:</h3>
 </br>
 Ensure your system has Node.js installed and configured correctly to run the script.
 Make sure you have the necessary permissions and access rights to fetch data from the NinjaRMM API.
