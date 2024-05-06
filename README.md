@@ -8,7 +8,7 @@ Before using this code, ensure you have the following prerequisites installed:
 </br>
 </br>
 </br>
-Node.js: </br>
+**Node.js:** </br>
 Ensure Node.js is installed on your system. You can download and install Node.js from the official Node.js website.
 </br></br>
 node-fetch: </br> Used to make HTTP requests to the NinjaRMM API.
