@@ -11,15 +11,15 @@ Before using this code, ensure you have the following prerequisites installed:
 **Node.js:** </br>
 Ensure Node.js is installed on your system. You can download and install Node.js from the official Node.js website.
 </br></br>
-node-fetch: </br> Used to make HTTP requests to the NinjaRMM API.
+**node-fetch:** </br> Used to make HTTP requests to the NinjaRMM API.
 </br></br>
-fs: </br>
+**fs:** </br>
 File system module for reading and writing files.
 </br></br>
-path: </br>
+**path:** </br>
 Module for handling file paths.
 </br></br>
-puppeteer: </br>
+**puppeteer:** </br>
 Headless Chrome Node.js API used to generate PDF reports.
 </br></br>
 
