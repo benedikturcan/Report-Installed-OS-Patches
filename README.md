@@ -10,6 +10,18 @@ Before using this code, ensure you have the following prerequisites installed:
 </br>
 Node.js: </br>
 Ensure Node.js is installed on your system. You can download and install Node.js from the official Node.js website.
+</br></br>
+node-fetch: </br> Used to make HTTP requests to the NinjaRMM API.
+</br></br>
+fs: </br>
+File system module for reading and writing files.
+</br></br>
+path: </br>
+Module for handling file paths.
+</br></br>
+puppeteer: </br>
+Headless Chrome Node.js API used to generate PDF reports.
+</br></br>
 
 ----------------------------------------------------------------------
 
@@ -52,21 +64,30 @@ Fill in the required API credentials, region, date range, and output format at t
 Run the script by executing node index.js in your terminal.
 The tool will fetch data from the NinjaOne API and generate reports based on your specified settings.
 </br></br>
-Outputs:
-CSV Output: The tool generates a CSV file for each organization, containing details of installed OS patches.
+
+----------------------------------------------------------------------
+
+<h3>⤵️ Outputs</h3>
+</br>
+CSV Output:</br> 
+The tool generates a CSV file for each organization, containing details of installed OS patches.
 Each CSV file is named after the respective organization.
 The CSV file includes columns for organization name, patch status, installation timestamp, device ID, timestamp, and KB number.
+</br></br>
 PDF Output: If PDF output is chosen, the tool generates a PDF report for each organization.
 Similar to CSV, each PDF file is named after the organization.
 The PDF report presents the same information as the CSV but in a formatted table within the document.
-Error Handling:
+</br></br>
+
+----------------------------------------------------------------------
+
+<h3>🤖 Error Handling</h3>
 The tool handles errors gracefully, providing clear messages for any encountered issues.
-For instance, if there's an invalid date range specified, it throws an error indicating the available options.
-Dependencies:
-node-fetch: Used to make HTTP requests to the NinjaRMM API.
-fs: File system module for reading and writing files.
-path: Module for handling file paths.
-puppeteer: Headless Chrome Node.js API used to generate PDF reports.
-Note:
+</br></br>
+
+----------------------------------------------------------------------
+
+<h3>Note:</h3>
+</br>
 Ensure your system has Node.js installed and configured correctly to run the script.
 Make sure you have the necessary permissions and access rights to fetch data from the NinjaRMM API.
